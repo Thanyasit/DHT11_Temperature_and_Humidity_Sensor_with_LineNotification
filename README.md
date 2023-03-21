@@ -1,4 +1,4 @@
-# TDHT11_Temperature_and_Humidity_Sensor_with_LineNotification
+# DHT11_Temperature_and_Humidity_Sensor_with_LineNotification
 This project uses the DHT11 temperature and humidity sensor to monitor the environment and sends notifications via Line.
 <h2>Requirements</h2>
 
