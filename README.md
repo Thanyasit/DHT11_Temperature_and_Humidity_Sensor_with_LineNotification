@@ -1,5 +1,5 @@
 # DHT11_Temperature_and_Humidity_Sensor_with_LineNotification
-This project uses the DHT11 temperature and humidity sensor to monitor the environment and sends notifications via Line.
+This project uses the DHT11 temperature and humidity sensor to monitor the environment and sends notifications via Line.<br><b>2022</b>
 <h2>Requirements</h2>
 
 - DHT11 temperature and humidity sensor<br>
@@ -21,4 +21,5 @@ The microcontroller reads the temperature and humidity data from the DHT11 senso
 - If the DHT11 sensor fails to read, the program will return an error message in the serial monitor.<br>
 
 <h2>License</h2>
-This code is licensed under the MIT License. See the LICENSE file for details.
+
+This code is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
