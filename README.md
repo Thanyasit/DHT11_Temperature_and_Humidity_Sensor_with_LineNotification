@@ -20,6 +20,8 @@ The microcontroller reads the temperature and humidity data from the DHT11 senso
 - If you're not receiving notifications, check your LINE Notify token and Wi-Fi connection.<br>
 - If the DHT11 sensor fails to read, the program will return an error message in the serial monitor.<br>
 
+## Example
+
 <h2>License</h2>
 
 This code is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
