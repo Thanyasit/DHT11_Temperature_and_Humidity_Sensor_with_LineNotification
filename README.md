@@ -22,6 +22,10 @@ The microcontroller reads the temperature and humidity data from the DHT11 senso
 
 ## Example
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77733903/226795352-dfe508a3-e84e-4947-8cf3-059b8d8f19ce.png" width="500">
+</p>
+
 <h2>License</h2>
 
 This code is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
